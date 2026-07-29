@@ -1,2 +1,3 @@
-print("test")
-print("test3")
+print("Hello GitHub")
+print("My student ID is K026C1020")
+print("MAUNG KAUNG")

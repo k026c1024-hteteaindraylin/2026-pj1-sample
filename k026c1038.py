@@ -1,3 +1,2 @@
-print("test1")
-hello
-hello world
+print("I am Phyu Thant.")
+print("My number is k026c1038.")
